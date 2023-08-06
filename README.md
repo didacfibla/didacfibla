@@ -13,10 +13,10 @@
 
 ## Things I work with
 
-- Linux system administrator
+- Linux system administration
 - Embeded systems and electronics
-- Developed my custom NFC Comunication protocol library to transmit APDU packages
-- Master of Python
+- NFC communication protocol libraries
+- Python ❤️
 - I also work with: Bash, SQL, C, assembler, Html, JS, css
 
 ## Faithful to my principles
