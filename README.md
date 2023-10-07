@@ -8,8 +8,6 @@
 ## ABOUT ME
 - 🇪🇸 From Spain (Castellón)
 - 🛠️⚙️ Good with electronics, embedded systems & low level programming
-- 🔒🔑 Manager of the development department on @eriaconsulting creating and managing access control systems
-- ⛰️🧘🏻‍♂️ I love peaceful nature and sports. I don't like crowds spaces
 
 ## Things I work with
 
