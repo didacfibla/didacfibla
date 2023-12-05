@@ -7,15 +7,13 @@
 
 ## ABOUT ME
 - 🇪🇸 From Spain (Castellón)
-- 🛠️⚙️ Good with electronics, embedded systems & low level programming
+- 🛠️ When i'm bored I do electronic or programming DIY projects 
 
 ## Things I work with
-
-- Linux system administration
-- Embeded systems and electronics
-- NFC communication protocol libraries
-- Python ❤️
-- I also work with: Bash, SQL, C, assembler, Html, JS, css
+- Sysadmin (Mainly Linux)
+- Embeded systems and electronics (Raspberry Pi and Microcontrollers)
+- Programming Languages: Python, C, Bash, SQL, HTML+CSS+JS
+- Top projects: NFC and BLE comunication, Dashboards to control IoT devices, Work Clocking Device (electronic dessign, pcb, software, 3D print cases)
 
 ## Faithful to my principles
 - Kaizen  
@@ -28,5 +26,3 @@
 <p align="center">
   <img src="https://s3.amazonaws.com/rails-camp-tutorials/blog/programming+memes/states-of-a-programmer.png" title="hover text">
 </p>
-
-
